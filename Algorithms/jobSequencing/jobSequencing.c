@@ -34,7 +34,7 @@ void jobS(int n){
     for (int i = 0; i<3;i++){
         printf("%d\t",list[i]);
     }
-    printf("\nMaximum Profit: %d",tprofit);
+    printf("\nMaximum Profit: %d\n",tprofit);
 }
 
 int main(){
